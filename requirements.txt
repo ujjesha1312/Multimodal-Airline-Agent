@@ -1,0 +1,7 @@
+openai>=1.0.0
+gradio>=3.45
+python-dotenv>=1.0
+Pillow>=10.0
+pydub>=0.25
+#if using ffmpeg
+ffmpeg-python>=0.3.1
